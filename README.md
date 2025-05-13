@@ -1,3 +1,1 @@
 # demo-repo
-AUTHOR - ADITYA 
-BHARDWAJ
